@@ -1,0 +1,118 @@
+body{
+  background-color: white;
+}
+.arreglo{
+   font-weight: 100;
+    background-color: aquamarine;
+}
+.menu {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    background-color: rgb(180, 199, 198);
+  
+    height: 80px;
+   
+}
+.letra{
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration:none;
+   
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    height: 60%;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.imagen{
+    width: 200px;
+   float: left; 
+}
+.op{
+display:block;
+margin:auto;
+width: 200px;
+}
+
+.div{
+    width: 700px;
+    height:800 ;
+    margin:0 auto;
+}
+.iil{
+   width: 700;
+    background-color: rgb(158, 223, 209);
+}
+.h2{
+    font-size: 17px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+.div2{
+    margin:0 auto;
+    width: 60%;
+}
+.img1{
+    width: 400px;
+    height: 400px;
+}
+.div3{
+    width: 60%;
+    margin:0 auto;
+}
+.div4{
+    width: 85%;
+    
+}
+.h2B{
+    font-size: 70px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: black;
+}
+.h2A{
+    font-size: 90px;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: black;
+}
+.TAMAÑO{
+    width: 30%;
+}
+.DIV{
+    width: 80%;
+    margin: 0 auto;
+}
+.w-100A{
+    width: 90%;
+    height: 800px;
+    margin: 0 auto;
+}
+footer{
+width: 100%;
+background-color: rgba(255, 255, 255, 0.788);
+float: left;
+
+}
+.logos{
+    margin-left: 100px;
+}
+ul{
+    float: right;
+    margin-right: 400px;
+}
+.lol{
+    margin-left: 30%;
+}
